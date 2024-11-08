@@ -1,0 +1,2 @@
+# Ini Kode Python Pertama Saya
+print("Hello World!")
